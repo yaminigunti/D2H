@@ -1,0 +1,15 @@
+package com.cts.d2h.model;
+
+import java.time.LocalDate;
+
+public class Transaction {
+	 private int txnId;
+	 private double amount;
+	 private LocalDate dateOfTxn;
+	 private TxnType txnType;
+	 private String description;
+	 
+	 
+	 
+
+}

@@ -1,0 +1,10 @@
+package com.cts.d2h.model;
+
+public class Transaction {
+	 private int txnId;
+private double amount;
+	private LocalDate dateOfTxn;
+	private String txnType;
+	private String description;
+
+}
